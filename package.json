@@ -1,0 +1,15 @@
+{
+  "name": "test-connectie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-server.js",
+  "scripts": {
+    "start": "node test-server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.4.1"
+  }
+}
